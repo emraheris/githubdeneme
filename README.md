@@ -1,0 +1,2 @@
+# githubdeneme
+Github for deneme
